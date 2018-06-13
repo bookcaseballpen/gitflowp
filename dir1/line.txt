@@ -1,2 +1,2 @@
-i am a line 
+this line has been changed
 add another line to finish
